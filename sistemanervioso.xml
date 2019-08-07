@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+  <sistema nombre="nervioso">Está formado por
+    <sistema nombre="nervioso central">formado
+    	<organo>Encéfalo</organo>
+    	<organo>Médula espinal</organo>
+
+    </sistema>
+    <sistema nombre="nervioso periférico">Formado direccion impulso nerviosos
+        <nervio>Aferente</nervio>
+        <nervio>Eferente</nervio>
+    </sistema>
+    <organo>Lengua</organo>
+    <organo>Nariz</organo>
+    <organo>Ojos</organo>
+    <organo>Piel</organo>
+    <organo>Oídos</organo>
+
+  </sistema>
